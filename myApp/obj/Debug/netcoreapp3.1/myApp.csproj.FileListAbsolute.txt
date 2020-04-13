@@ -1,0 +1,12 @@
+/Users/jogoncal/Documents/git/hello-world-net-core/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/jogoncal/Documents/git/hello-world-net-core/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/jogoncal/Documents/git/hello-world-net-core/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/jogoncal/Documents/git/hello-world-net-core/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/jogoncal/Documents/git/hello-world-net-core/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/jogoncal/Documents/git/hello-world-net-core/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/jogoncal/Documents/git/hello-world-net-core/myApp/obj/Debug/netcoreapp3.1/myApp.csproj.CoreCompileInputs.cache
+/Users/jogoncal/Documents/git/hello-world-net-core/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/jogoncal/Documents/git/hello-world-net-core/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/jogoncal/Documents/git/hello-world-net-core/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/jogoncal/Documents/git/hello-world-net-core/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/Users/jogoncal/Documents/git/hello-world-net-core/myApp/obj/Debug/netcoreapp3.1/myApp.genruntimeconfig.cache
